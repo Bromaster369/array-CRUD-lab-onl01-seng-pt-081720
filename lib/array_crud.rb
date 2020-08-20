@@ -2,8 +2,8 @@ def create_an_empty_array
   []
 end
 
-def create_an_array(array)
-  array = ["Bread", "Ham", "Tomato", "Lettuce"]
+def create_an_array
+  ["Bread", "Ham", "Tomato", "Lettuce"]
 end
 
 def add_element_to_end_of_array(array, element)
